@@ -2,9 +2,9 @@
 
 I'm Armando, and I'm 3rd year Computer Science student at Concordia University. 
 
-Programming has always been my passion, and I always seek the opportunity to learn. I love programming games and other software projects.
+Programming has always been my passion, and I always seek the opportunity to learn. I love programming anything related to software apps and games
 
-I've done a few projects here and there, but I pinned the ones that are the most important to me. 
+Pinned on my profile are projects that I love and put the most time into.
 
 <!--Check out my github-->
 
