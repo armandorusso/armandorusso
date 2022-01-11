@@ -1,8 +1,8 @@
 ### Welcome!
 
-I'm Armando, and I'm Computer Science Undergraduate.
+I'm Armando, and I'm Computer Science Undergraduate!
 
-Programming has always been my passion, and I always seek the opportunity to learn. I love programming anything related to software apps and games
+Programming has always been my passion, and I always seek the opportunity to learn. I love programming anything related to software apps and games.
 
 Pinned on my profile are projects that I love and put the most time into.
 
