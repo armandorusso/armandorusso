@@ -8,7 +8,7 @@ Pinned on my profile are projects that I love and put the most time into.
 
 <!--Check out my github-->
 
-- 🔭 I’m currently working projects, mainly other games and refining Costume Curse.
-- 🌱 I’m currently learning and mastering my game development skills in Unity and C++.
+- 🔭 I’m currently working projects, mainly my bookmark website and other games on my free time.
+- 🌱 I’m currently learning and mastering my software development skills in JavaScript (React and NodeJS)
 - 📫 You can contact me on LinkedIn:
     - [LinkedIn](https://www.linkedin.com/in/armando-russo-/)
