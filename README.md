@@ -1,5 +1,5 @@
 <p float="left">
-  <img src='https://user-images.githubusercontent.com/46937969/173175298-eaba40af-a47d-4140-95d0-599396cf6f66.jpg' width='280' align="left">
+  <img src='https://user-images.githubusercontent.com/46937969/173175298-eaba40af-a47d-4140-95d0-599396cf6f66.jpg' width='286' align="left">
   <p float="left">
 
 <h1>Welcome! </h1>
