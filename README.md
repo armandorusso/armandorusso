@@ -11,9 +11,8 @@ Programming has always been my passion, and I always seek the opportunity to lea
 Pinned on my profile are projects that I love and put the most time into.
 
 Currently, I am working on game development in Unity as well as web development <br> 
-One of my projects I am currently working on is my bookmark website, where you are able to easily store the best resources for a particular subject: [BookmarkManager](https://github.com/armandorusso/BookmarkManager) <br>
 
-I am also currently working on a secret Unity project 🌱 <br>
+Currently, I am working on a secret Unity project 🌱 <br>
 
 Get in touch with me 📫 : <br>
     - [Portfolio Website](armandor.tech)
