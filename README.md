@@ -10,9 +10,7 @@ Programming has always been my passion, and I always seek the opportunity to lea
 
 Pinned on my profile are projects that I love and put the most time into.
 
-Currently, I am working on game development in Unity as well as web development <br> 
-
-Currently, I am working on a secret Unity project 🌱 <br>
+Currently, I am working on game development in Unity and soon to be in Unreal 🌱<br> 
 
 Get in touch with me 📫 : <br>
     - [Portfolio Website](armandor.tech)
