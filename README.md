@@ -13,7 +13,6 @@ Pinned on my profile are projects that I love and put the most time into.
 Currently, I am working on game development in Unity and soon to be in Unreal 🌱<br> 
 
 Get in touch with me 📫 : <br>
-    - [Portfolio Website](armandor.tech)
     - [LinkedIn](https://www.linkedin.com/in/armando-russo-/)
 
 <div>
