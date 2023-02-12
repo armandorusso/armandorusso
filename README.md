@@ -18,7 +18,7 @@ Get in touch with me 📫 : <br>
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=armandorusso&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" />
   <h2>Active Projects </h2>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george540&repo=CGDJam2022&theme=tokyonight" />
+    <a href="https://github.com/George540/CGDJam2022"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george540&repo=CGDJam2022&theme=tokyonight" /></a>
 </div>
 
 <!--
