@@ -19,7 +19,6 @@ Get in touch with me 📫 : <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=armandorusso&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" />
   <h2>Active Projects </h2>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=george540&repo=CGDJam2022&theme=tokyonight" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=armandorusso&repo=bookmarkmanager&theme=tokyonight" />
 </div>
 
 <!--
