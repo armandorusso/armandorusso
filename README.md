@@ -10,7 +10,7 @@ Programming has always been my passion, and I always seek the opportunity to lea
 
 Pinned on my profile are projects that I love and put the most time into.
 
-Currently, I am working on game development in Unity and soon to be in Unreal 🌱<br> 
+Currently, I am working on game development in Unity, a custom 3D pixel art renderer in OpenGL, and completing the Tom Looman Professional Unreal Engine Course 🌱<br> 
 
 Get in touch with me 📫 : <br>
     - [LinkedIn](https://www.linkedin.com/in/armando-russo-/)
