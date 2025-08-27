@@ -13,6 +13,7 @@ Pinned on my profile are projects that I love and put the most time into.
 Currently, I am working on game development in Unity, a custom 3D pixel art renderer in OpenGL, and completing the Tom Looman Professional Unreal Engine Course 🌱<br> 
 
 Get in touch with me 📫 : <br>
+    - [Portfolio](https://armandorusso.tech/) <br>
     - [LinkedIn](https://www.linkedin.com/in/armando-russo-/)
 
 <div>
