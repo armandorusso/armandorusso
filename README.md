@@ -10,7 +10,7 @@ Programming has always been my passion, and I always seek the opportunity to lea
 
 Pinned on my profile are projects that I love and put the most time into.
 
-Currently, I am working on game development in Unity, a custom 3D pixel art renderer in OpenGL, and completing the Tom Looman Professional Unreal Engine Course 🌱<br> 
+Currently, I am working on game development in Unity, a custom 3D pixel art renderer in OpenGL, and a multiplayer game in UE5 using what I learned in the Tom Looman Professional Unreal Engine course 🌱<br> 
 
 Get in touch with me 📫 : <br>
     - [Portfolio](https://armandorusso.tech/) <br>
