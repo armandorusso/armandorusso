@@ -4,7 +4,7 @@
 
 <h1>Welcome!🦉</h1>
 
-I'm Armando, and I'm Computer Science Undergraduate!
+I'm Armando, and I'm Game & Software Developer!
 
 Programming has always been my passion, and I always seek the opportunity to learn. I love programming anything related to software apps and games.
 
@@ -15,10 +15,6 @@ Currently, I am working on game development in Unity, a custom 3D pixel art rend
 Get in touch with me 📫 : <br>
     - [Portfolio](https://armandorusso.tech/) <br>
     - [LinkedIn](https://www.linkedin.com/in/armando-russo-/)
-
-<div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=armandorusso&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" />
-</div>
 
 <!--
 Here are some ideas to get you started:
